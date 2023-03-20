@@ -1,0 +1,11 @@
+*{
+  margin-top: 0;
+}
+
+
+.App {
+  text-align: center;
+  color: white;
+  background-color: lightgray;
+  padding: 2%;
+}
